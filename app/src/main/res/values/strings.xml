@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Starroot Isle</string>
+    <string name="tagline">Farm • Mine • Fish • Craft • Co-op</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_new_game">New Island</string>
+    <string name="btn_how">How to Play</string>
+    <string name="energy">Energy</string>
+    <string name="day">Day</string>
+    <string name="coins">Coins</string>
+    <string name="inventory">Bag</string>
+    <string name="craft">Craft</string>
+    <string name="sleep">Sleep</string>
+    <string name="hint_title">Welcome, settler</string>
+    <string name="hint_body">You washed ashore on Starroot Isle. The Heartseed story plays as cutscenes.\n\n• Story: journal, claim rewards, cinematic pages\n• Online: create room → QR share; friends scan or deep-link join\n• Tile edits &amp; sleep (crop growth) sync live online\n• Local co-op, jobs, biomes, music/SFX as before\n\nOriginal IP — no third-party characters or art.</string>
+    <string name="ok">Got it</string>
+</resources>

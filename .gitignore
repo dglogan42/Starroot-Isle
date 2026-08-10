@@ -1,0 +1,55 @@
+# --- Gradle / Android ---
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+.cxx/
+captures/
+.externalNativeBuild/
+*.hprof
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+debug/
+
+# Signing / secrets
+keystore/
+*.jks
+*.keystore
+*.pem
+*.p12
+secrets.properties
+**/google-services.json
+
+# --- Node (online server) ---
+server/node_modules/
+server/npm-debug.log*
+server/yarn-error.log*
+server/.npm/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+*.code-workspace
+
+# --- Logs / temp ---
+*.log
+*.tmp
+*.temp
+.cache/
+
+# --- Kotlin / misc ---
+.kotlin/
+*.kt.bak

@@ -1,0 +1,13 @@
+{
+  "name": "starroot-isle-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WebSocket lobby for Starroot Isle online visit co-op",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

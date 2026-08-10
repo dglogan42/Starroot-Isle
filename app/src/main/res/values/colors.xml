@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_day">#FF87CEEB</color>
+    <color name="sky_dusk">#FFE8A87C</color>
+    <color name="sky_night">#FF1A1A3E</color>
+    <color name="grass">#FF5DAD4A</color>
+    <color name="grass_dark">#FF3D8B3D</color>
+    <color name="dirt">#FF8B6914</color>
+    <color name="soil">#FF6B4423</color>
+    <color name="water">#FF3A8FBF</color>
+    <color name="water_deep">#FF246B9A</color>
+    <color name="sand">#FFE8D5A3</color>
+    <color name="stone">#FF8A8A8A</color>
+    <color name="wood">#FF8B5A2B</color>
+    <color name="starroot">#FFB8E0FF</color>
+    <color name="ui_panel">#E01A1A2E</color>
+    <color name="ui_accent">#FFFFD56A</color>
+    <color name="ui_text">#FFFFF8E7</color>
+    <color name="energy">#FF6EE07A</color>
+    <color name="energy_low">#FFE07A6E</color>
+    <color name="player">#FFFFB347</color>
+    <color name="puffkin_rose">#FFFF9BB0</color>
+    <color name="puffkin_mint">#FF7FDBCA</color>
+    <color name="puffkin_sun">#FFFFE066</color>
+    <color name="puffkin_sky">#FF74C0FC</color>
+    <color name="crop_green">#FF90EE90</color>
+    <color name="crop_gold">#FFFFD700</color>
+    <color name="ore">#FFC0C0C0</color>
+    <color name="ore_glow">#FF7EC8E3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="launcher_bg">#FF2D5A3D</color>
+    <color name="launcher_fg">#FFFFD56A</color>
+</resources>
