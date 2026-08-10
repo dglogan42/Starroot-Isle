@@ -53,3 +53,9 @@ Thumbs.db
 # --- Kotlin / misc ---
 .kotlin/
 *.kt.bak
+
+
+# Release APKs published for download
+!dist/
+!dist/**
+!dist/*.apk
